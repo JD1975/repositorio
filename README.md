@@ -21,7 +21,7 @@ Me llamo Josafat Axel Duarte Fregoso y estudio en la Facultad de Informática de
 - Saga: Harry Potter
 
 ## Mi mascota
-![Picture](MASCOTA.jpg)
+![Picture](https://github.com/JD1975/repositorio/blob/1fb28ea49689a618a2c25b69a8a7f4c8ed290ed4/MASCOTA.jpeg)
 
 ## Deportes
 - Futbol
